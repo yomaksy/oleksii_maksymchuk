@@ -1,2 +1,2 @@
 # oleksii_maksymchuk
-fe-2209 web academy
+This repository contains tasks from Web Academy courses
