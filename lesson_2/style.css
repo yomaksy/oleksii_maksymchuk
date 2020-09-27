@@ -1,0 +1,30 @@
+table {
+    width: 500px;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 0.5px solid #000;
+    border-collapse: collapse;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 23px;
+    text-align: center;
+    background-color: #F0BE2E;
+}
+tr, td{
+    border: 0.5px solid #000;
+}
+tr:nth-child(2) {
+    background-color: #AC4C4C;
+    color: #fff;
+}
+td:nth-child(2) {
+    background-color: #F40F0F;
+    color: #000;
+}    
+td:nth-child(3) {
+    background-color: #333333;
+    color: #fff;
+}
+td.list-of-something {
+    background-color: #F0BE2E;
+}
