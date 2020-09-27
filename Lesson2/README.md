@@ -1,1 +1,1 @@
-https://yomaksy.github.io/oleksii_maksymchuk/Lesson2/index.html
+[Page layout using tables](https://yomaksy.github.io/oleksii_maksymchuk/Lesson2/index.html)
