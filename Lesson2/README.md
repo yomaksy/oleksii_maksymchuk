@@ -1,1 +1,2 @@
-[Page layout using tables](https://yomaksy.github.io/oleksii_maksymchuk/Lesson2/index.html)
+# Lesson 2 Homework
+* [Page layout using tables](https://yomaksy.github.io/oleksii_maksymchuk/Lesson2/index.html)
