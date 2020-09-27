@@ -1,2 +1,2 @@
-# oleksii_maksymchuk
+# Oleksii Maksymchuk
 This repository contains tasks from Web Academy courses
