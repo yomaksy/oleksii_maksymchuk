@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meeting 1</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <form action="https://echo.htmlacademy.ru/" method="POST">
+        <fieldset>
+           <legend>Personal Information</legend> 
+           <p><label for="surname">Surname:</label>
+                <input 
+                    id="surname" 
+                    name="Surname" 
+                    type="text" 
+                    autocomplete="off"
+                >
+            </p>
+           <p><label for="name">Name:</label>
+                <input 
+                    id="name" 
+                    name="Name" 
+                    type="text" 
+                    autocomplete="off"
+                >
+            </p>
+           <p><label for="age">How old are You?</label>
+                <input 
+                    id="age" 
+                    name="I am" 
+                    type="number" 
+                    min="10"
+                >
+            </p>
+           <p><label for="birth date">Full date of birth:</label>
+                <input 
+                    id="birth date" 
+                    name="I was born on" 
+                    type="date" 
+                    autocomplete="off"
+                >
+            </p>
+            <p><label>I accept the term of the agreement</label>
+                <input 
+                    name="Agreement sign" 
+                    type="checkbox" 
+                    value="Yes" 
+                    autocomplete="off"
+                >
+            </p>
+        </fieldset>
+        <fieldset>
+            <legend>Registration</legend>
+            <p><label for="email">Email:</label>
+                <input 
+                    id="email" 
+                    name="Email" 
+                    type="email" 
+                    placeholder="email@example.com" 
+                    autocomplete="off"
+                >
+            </p>
+            <p><label for="password">Password:</label>
+                <input 
+                    id="password" 
+                    name="Password" 
+                    type="password" 
+                    minlength="8" 
+                    autocomplete="off"
+                >
+            </p>
+        </fieldset>
+        <fieldset>
+            <legend>An interesting fact about you!</legend>
+            <p><label>Do you love cats?</label>
+                <input 
+                    name="Attitude to cats" 
+                    type="radio" 
+                    value="Positive" 
+                    autocomplete="off"
+                >Yes
+                <input 
+                    name="Attitude to cats" 
+                    type="radio" 
+                    value="Negative" 
+                    autocomplete="off"
+                >No
+            </p>
+            <p><label for="color">What is your favorite color?</label>
+                <input 
+                    id="color" 
+                    name="My favorite color" 
+                    type="color"
+                >
+            </p>
+            <p><label for="bedtime">What time do you go to bed?</label>
+                <input 
+                    id="bedtime" 
+                    name="I go to bed at" 
+                    type="time"
+                >
+            </p>
+            <p><label for="car">What are your favorite brand of cars?</label>
+                <select id="car" name="My favorite car brand">
+                    <option selected="selected" disabled>Chose brand</option>
+                    <option value="BMW">BMW</option>
+                    <option value="Porsche">Porsche</option>
+                    <option value="Audi">Audi</option>
+                    <option value="Volkswagen">Volkswagen</option>
+                </select>
+            </p>
+            <p><label for="rangeinput">How do you rate our work?</label>
+                <input 
+                    id="rangeoutput" 
+                    name="Your work rating" 
+                    type="range" 
+                    min="0" 
+                    max="10" 
+                    onchange="rangevalue.value=value"
+                    autocomplete="off"
+                >
+                <output id="rangevalue">5</output>
+            </p>
+        </fieldset>
+        <fieldset>
+            <legend>Additional info:</legend>
+            <p><label for="comments">Coments:</label>
+                <textarea 
+                    id="comments" 
+                    name="Comments:" 
+                    rows="1" 
+                    cols="20" 
+                    autocomplete="off"
+                ></textarea>
+            </p>
+            <p><label for="recomendation">Would you recommend us?</label>
+                <select id="recomendation" name="Recommendation">
+                    <option selected value="Yes">yes</option>
+                    <option value="No">no</option>
+                </select>
+            </p>
+        </fieldset>
+        <p><input type="submit" value="Submit"></p>
+    </form>
+</body>
+</html>
