@@ -10,23 +10,23 @@
     <form action="https://echo.htmlacademy.ru/" method="POST">
         <fieldset>
            <legend>Personal Information</legend> 
-           <p><label for="surname">Surname:</label>
+           <div><label for="surname">Surname:</label>
                 <input 
                     id="surname" 
                     name="Surname" 
                     type="text" 
                     autocomplete="off"
                 >
-            </p>
-           <p><label for="name">Name:</label>
+            </div>
+           <div><label for="name">Name:</label>
                 <input 
                     id="name" 
                     name="Name" 
                     type="text" 
                     autocomplete="off"
                 >
-            </p>
-           <p><label for="age">How old are You?</label>
+            </div>
+           <div><label for="age">How old are You?</label>
                 <input 
                     id="age" 
                     name="I am" 
@@ -34,27 +34,27 @@
                     min="10"
                     autocomplete="off"
                 >
-            </p>
-           <p><label for="birth date">Full date of birth:</label>
+            </div>
+           <div><label for="birth date">Full date of birth:</label>
                 <input 
                     id="birth date" 
                     name="I was born on" 
                     type="date" 
                     autocomplete="off"
                 >
-            </p>
-            <p><label>I accept the term of the agreement</label>
+            </div>
+            <div><label>I accept the term of the agreement</label>
                 <input 
                     name="Agreement sign" 
                     type="checkbox" 
                     value="Yes" 
                     autocomplete="off"
                 >
-            </p>
+            </div>
         </fieldset>
         <fieldset>
             <legend>Registration</legend>
-            <p><label for="email">Email:</label>
+            <div><label for="email">Email:</label>
                 <input 
                     id="email" 
                     name="Email" 
@@ -62,8 +62,8 @@
                     placeholder="email@example.com" 
                     autocomplete="off"
                 >
-            </p>
-            <p><label for="password">Password:</label>
+            </div>
+            <div><label for="password">Password:</label>
                 <input 
                     id="password" 
                     name="Password" 
@@ -71,11 +71,11 @@
                     minlength="8" 
                     autocomplete="off"
                 >
-            </p>
+            </div>
         </fieldset>
         <fieldset>
             <legend>An interesting fact about you!</legend>
-            <p><label>Do you love cats?</label>
+            <div><label>Do you love cats?</label>
                 <input 
                     name="Attitude to cats" 
                     type="radio" 
@@ -88,24 +88,24 @@
                     value="Negative" 
                     autocomplete="off"
                 >No
-            </p>
-            <p><label for="color">What is your favorite color?</label>
+            </div>
+            <div><label for="color">What is your favorite color?</label>
                 <input 
                     id="color" 
                     name="My favorite color" 
                     type="color"
                     autocomplete="off"
                 >
-            </p>
-            <p><label for="bedtime">What time do you go to bed?</label>
+            </div>
+            <div><label for="bedtime">What time do you go to bed?</label>
                 <input 
                     id="bedtime" 
                     name="I go to bed at" 
                     type="time"
                     autocomplete="off"
                 >
-            </p>
-            <p><label for="car">What are your favorite brand of cars?</label>
+            </div>
+            <div><label for="car">What are your favorite brand of cars?</label>
                 <select id="car" name="My favorite car brand" autocomplete="off">
                     <option selected="selected" disabled>Chose brand</option>
                     <option value="BMW">BMW</option>
@@ -113,8 +113,8 @@
                     <option value="Audi">Audi</option>
                     <option value="Volkswagen">Volkswagen</option>
                 </select>
-            </p>
-            <p><label for="rangeinput">How do you rate our work?</label>
+            </div>
+            <div><label for="rangeinput">How do you rate our work?</label>
                 <input 
                     id="rangeoutput" 
                     name="Your work rating" 
@@ -125,11 +125,11 @@
                     autocomplete="off"
                 >
                 <output id="rangevalue">5</output>
-            </p>
+            </div>
         </fieldset>
         <fieldset>
             <legend>Additional info:</legend>
-            <p><label for="comments">Coments:</label>
+            <div><label for="comments">Coments:</label>
                 <textarea 
                     id="comments" 
                     name="Comments:" 
@@ -137,15 +137,15 @@
                     cols="20" 
                     autocomplete="off"
                 ></textarea>
-            </p>
-            <p><label for="recomendation">Would you recommend us?</label>
+            </div>
+            <div><label for="recomendation">Would you recommend us?</label>
                 <select id="recomendation" name="Recommendation" autocomplete="off">
                     <option selected value="Yes">yes</option>
                     <option value="No">no</option>
                 </select>
-            </p>
+            </div>
         </fieldset>
-        <p><input type="submit" value="Submit"></p>
+        <button>Submit</button>
     </form>
 </body>
 </html>
