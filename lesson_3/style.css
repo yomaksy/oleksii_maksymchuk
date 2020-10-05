@@ -1,0 +1,98 @@
+* {
+    box-sizing: border-box;
+}
+.allcards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.card_body {
+    width: 200px;
+    height: 403px;
+    border-radius: 5px;
+    background-color: #FFFFFF;
+    border: 1px solid #F3F3F3;
+    font-family: Roboto;
+    display: flex;
+    flex-direction: column;
+    margin: 7px;
+}
+.card_img img {
+    width: 160px;
+    height: 134px;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+.card_item-name {
+    font-size: 12px;
+    font-weight: 500;
+    margin-left: 15px;
+    margin-top: 45px;
+}
+.card_item-code {
+    font-size: 11px;
+    margin-left: 15px;
+    margin-top: 6px;
+}
+.card_stat {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+.card_all-stars {
+    flex: 0 0 auto;
+    display: flex;
+}
+.card_star {
+    flex: 0 0 15px;
+    height: 15px;
+    fill: #FFDE6A;
+}
+.card_star +.card_star {
+    margin-left: 4px;
+}
+.card_star:last-child {
+    fill: #E5E5E5;
+}
+.card_feedback {
+    font-size: 11px;
+    margin-right: 15px;
+    align-self: center;
+}
+.card_price {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 15px;
+}
+.card_item-price {
+    font-size: 11px;
+    align-self: center;
+}
+.card_item-howmuch {
+    font-size: 16px;
+    font-weight: 700;
+}
+button {
+    border: none;
+    width: 170px;
+    height: 40px;
+    border-radius: 5px;
+    background-color: #00ACDC;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: bold;
+    margin-left: 15px;
+    margin-top: 20px;  
+}
+.card_body:hover {
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.07);
+}
+button:hover {
+    border: 1px solid #00ACDC; 
+    background-color: #FFFFFF;
+    color: #00ACDC;
+}

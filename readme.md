@@ -4,3 +4,5 @@ This repository contains tasks from Web Academy courses
 * [Page layout using tables](https://yomaksy.github.io/oleksii_maksymchuk/lesson_2/index.html)
 ## Meeting 1 Homework
 * [Form](https://yomaksy.github.io/oleksii_maksymchuk/meeting_1/index.html)
+## Lesson 3 Homework
+* [Product Card](https://yomaksy.github.io/oleksii_maksymchuk/lesson_3/index.html)

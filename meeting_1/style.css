@@ -7,3 +7,33 @@ fieldset {
 legend {
     font-weight: bold;
 }
+.name {
+    margin-top: 7px;
+}
+.age {
+    margin-top: 7px;
+}
+.birth-date {
+    margin-top: 7px;
+}
+.agreement-sign {
+    margin-top: 7px;
+}
+.password {
+    margin-top: 7px;
+}
+.color {
+    margin-top: 7px;
+}
+.bedtime {
+    margin-top: 7px;
+}
+.car {
+    margin-top: 7px;
+}
+.range {
+    margin-top: 7px;
+}
+.recomendation {
+    margin-top: 7px;
+}
