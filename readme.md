@@ -1,8 +1,7 @@
 # Oleksii Maksymchuk
 This repository contains tasks from Web Academy courses
-## Lesson 2 Homework
-* [Page layout using tables](https://yomaksy.github.io/oleksii_maksymchuk/lesson_2/index.html)
-## Meeting 1 Homework
-* [Form](https://yomaksy.github.io/oleksii_maksymchuk/meeting_1/index.html)
-## Lesson 3 Homework
-* [Product Card](https://yomaksy.github.io/oleksii_maksymchuk/lesson_3/index.html)
+## Homeworks
+* [Lesson 2 - Page Layout Using Tables](https://yomaksy.github.io/oleksii_maksymchuk/lesson_2/index.html)
+* [Meeting 1 - Form](https://yomaksy.github.io/oleksii_maksymchuk/meeting_1/index.html)
+* [Lesson 3 - Product Card](https://yomaksy.github.io/oleksii_maksymchuk/lesson_3/index.html)
+* [Lesson 5 - Adaptive Layout] (https://yomaksy.github.io/oleksii_maksymchuk/lesson_5/index.html)
