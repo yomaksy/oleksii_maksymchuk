@@ -1,1 +1,1 @@
-* [Adaptive Layout] (https://yomaksy.github.io/oleksii_maksymchuk/lesson_5/index.html)
+* [Adaptive Layout](https://yomaksy.github.io/oleksii_maksymchuk/lesson_5/index.html)
