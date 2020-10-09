@@ -1,0 +1,91 @@
+.cv_person_3 {
+    display: flex;
+    justify-content: center;
+}
+.cv_main {
+    width: 900px;
+    height: 612px;
+    display: flex;
+}
+.cv_img_fx {
+    position: absolute;
+    width: 270px;
+    height: 125px;
+    margin-top: 487px;
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, #000000 100%);
+}
+.cv_img_text {
+    position: absolute;
+    margin-top: 503px;
+    font-family: 'Bw Modelica', sans-serif;
+    color: #fff;
+}
+.cv_person_name {
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 16px;
+}
+.cv_person_text_1 {
+    font-size: 14px;
+    font-weight: 600;
+    margin-left: 16px;
+    margin-top: 16px;
+}
+.cv_person_text_2 {
+    font-size: 14px;
+    font-weight: 600;
+    margin-left: 16px;
+    margin-top: 8px;
+}
+.cv_text {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    display: flex;
+    flex-direction: column;
+}
+.cv_quote {
+    font-size: 18px;
+    margin-top: 32px;
+    display: flex;
+}
+.cv_quote_sign {
+    font-size: 72px;
+    color: #c4c4c4;
+    margin-left: 32px;
+}
+.cv_quote_full_text {
+    margin-left: 27px;
+}
+.cv_quote_text {
+    color: #666666;
+}
+.cv_content {
+    width: 630px;
+    height: 499px;
+    background-color: #f9f9f9;
+}
+.cv_content_block {
+    margin-left: 82px;
+}
+.cv_content_block_head {
+    margin-top: 36px;
+    font-size: 18px;
+}
+.cv_content_block_text {
+    margin-top: 8px;
+}
+.cv_logo_block {
+    position: absolute;
+    width: 113px;
+    height: 44px;
+    margin-top: 568px;
+    margin-left: 787px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.cv_logo_text {
+    font-family: 'Audi Type', sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 7px;
+}
