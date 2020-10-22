@@ -1,1 +1,1 @@
-* Task is to write a JavaScript function to get difference between two dates.
+Task is to write a JavaScript function to get difference between two dates.
