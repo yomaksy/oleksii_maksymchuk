@@ -6,3 +6,4 @@ This repository contains tasks from Web Academy courses
 * [Lesson 3 - Product Card](https://yomaksy.github.io/oleksii_maksymchuk/lesson_3/index.html)
 * [Lesson 4 - CV](https://yomaksy.github.io/oleksii_maksymchuk/lesson_4/index.html)
 * [Lesson 5 - Adaptive Layout](https://yomaksy.github.io/oleksii_maksymchuk/lesson_5/index.html)
+* [Lesson 9 - Difference Function](https://yomaksy.github.io/oleksii_maksymchuk/lesson_9/index.html)
