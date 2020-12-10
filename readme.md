@@ -1,6 +1,7 @@
 # Oleksii Maksymchuk
 This repository contains tasks from Web Academy courses
 ## Homeworks
+* [Lesson 1 - Tetris](https://yomaksy.github.io/oleksii_maksymchuk/lesson_1/index.html)
 * [Lesson 2 - Page Layout Using Tables](https://yomaksy.github.io/oleksii_maksymchuk/lesson_2/index.html)
 * [Meeting 1 - Form](https://yomaksy.github.io/oleksii_maksymchuk/meeting_1/index.html)
 * [Lesson 3 - Product Card](https://yomaksy.github.io/oleksii_maksymchuk/lesson_3/index.html)
