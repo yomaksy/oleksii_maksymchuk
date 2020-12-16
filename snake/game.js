@@ -143,7 +143,7 @@ function move() {
         }
 
     if (snakeTail[0].classList.contains('snakeTail')) {
-        swal(`Score: ${score}`, 'the [E]nd of YoRHa \n ニーア オートマタ', { 
+        swal(`Score: ${score}`, 'Better luck next time! \n ニーア オートマタ', { 
             button: {text: 'Go'}
         })
         .then(() => {
