@@ -14,6 +14,6 @@ This is my Course Project for Web Academy courses. Snake is a game based on NieR
 Use the `arrow keys` on your keyboard to move.
 ### Play
 * [Click to Start](https://yomaksy.github.io/oleksii_maksymchuk/snake/index.html)
-### Useful links
+### Useful
 * [UI Design in NieR:Automata](https://www.platinumgames.com/official-blog/article/9624)
 * [SweetAlert](https://sweetalert.js.org)
